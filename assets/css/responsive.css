@@ -1,0 +1,155 @@
+/*========================================
+    ||LARGE_DEVICE||
+=========================================*/
+@media (max-width: 1199px){
+    
+
+}
+
+/*========================================
+    ||MEDIAM_DEVICE||
+=========================================*/
+@media (max-width: 991px){
+    .main-nav .btn {
+        display: none;
+    }
+    .container{
+        max-width: 90%;
+    }
+    .mobile-menu span {
+        display: block !important;
+    }
+
+    .main-menu .main-nav{
+        display: none !important;
+    }
+    /*testimonial*/
+
+    .item p {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    
+    /*copyright-Right*/
+
+    .copyright-text span {
+        font-size: 18px;
+        letter-spacing: 0px !important;
+    }
+    .slider-content {
+        padding: 105px 0px 0px 0px !important;
+    }
+    section#about {
+        padding-bottom: 0 !important;
+    }
+
+}
+
+/*========================================
+    ||SMALL_DEVICE||
+=========================================*/
+@media (max-width: 767px){
+    .main-menu {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    .mobile-menu span {
+        top: -45px !important;
+    }
+    .slider-img {
+        padding: 60px 0 50px 100px !important;
+    }
+    .slider-content {
+        padding: 0 0px 50px 0px !important;
+        text-align: center;
+    }
+    .about-section {
+        padding-bottom: 40px;
+    }
+    .about-img {
+        margin-top: 50px;
+    }
+    .service-section {
+        padding-top: 0px;
+    }
+    .service-tem {
+        margin-top: 30px;
+    }
+    .heading-contant {
+        margin-top: 50px;
+    }
+
+    .margin-top {
+        margin-top: 40px;
+    }
+    .parallax-img {
+        margin-top: 50px;
+    }
+    #testimonials-avatar {
+        display: none;
+    }
+    .item p {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .item p {
+        line-height: 28px !important;
+        letter-spacing:  0px !important;
+    }
+    .blog-item {
+        margin-top: 40px;
+    }
+    .contact-right {
+        margin-top: 40px;
+    }
+    .contact-section {
+        padding-bottom: 0px;
+    }
+
+}
+
+/*========================================
+    ||EXTRA_SMALL_DEVICE||
+=========================================*/
+
+@media (max-width: 480px){
+    
+}
+@media (max-width: 575px){
+    .counter-item {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+
+}
+/*========================================
+=========================================*/
+@media (max-width: 320px){
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
